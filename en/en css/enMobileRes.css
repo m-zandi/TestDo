@@ -1,0 +1,79 @@
+@media(max-width:656px){
+
+    .socialMedia{
+        /* position:relative; */
+        grid-column: 1/ span 100;
+        
+        transform: translate(0%,0%);
+        background-image: url("../en pic/En Tablet - top bg social media and lang.svg");
+        background-repeat: no-repeat;
+        background-size: 100%;
+        width:100%;
+        /* height: 12vh; */
+    
+        z-index: 4;
+
+            /* Center the ul within this div */
+        display: flex;
+        /* align-items: center;  */
+        justify-content: center;
+        /* margin-bottom: 80px; */
+        padding-bottom: 5%;
+    }
+    .socialMedia ul{
+        display: flex;
+        /* transform: translateY(11%); */
+        padding-top: 3px;
+
+        justify-content: center;
+        width: 45%;
+
+        
+
+}
+.socialMedia img{
+    transform: translateY(-10%);
+
+}
+
+.lang{
+    grid-column: 87/span 100;
+    grid-row: 1;
+    /* color: black; */
+    display: flex;
+    align-items: center;
+    padding-right: 100px;
+    transform: translate(0%, -1vw);
+
+}
+.lang ul{
+    flex-direction: row;
+    /* color: black; */
+    gap:15px;
+
+
+}
+.lang li:nth-child(1){
+    font-size: 1.6vw; 
+    font-weight: bold;
+
+}
+
+
+.lang li:nth-child(2) {
+
+    font-size: 1.5vw; 
+
+
+} 
+.lang_text{
+    color: black;
+
+}
+
+
+
+
+
+ 
+}
