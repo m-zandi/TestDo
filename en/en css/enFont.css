@@ -9,6 +9,7 @@
             url('../en font/Kanit-Regular.ttf') format('truetype'); /* Fallback */
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
     }
 
 @font-face {
@@ -18,6 +19,7 @@
             url('../en font/Kanit-100.ttf') format('truetype'); /* Fallback */
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
     }
 
 @font-face {
@@ -27,6 +29,7 @@
             url('../en font/Kanit-200.ttf') format('truetype'); /* Fallback */
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
     }
 
 
@@ -37,6 +40,7 @@
             url('../en font/Kanit-SemiBold.ttf') format('truetype'); /* Fallback */
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
     }
 
     @font-face {
@@ -46,6 +50,7 @@
              url('../en font/FugazOne-Regular.ttf') format('truetype');
         font-weight: normal;
         font-style: normal;
+        font-display: swap;
     }
 
 @font-face {
@@ -55,6 +60,7 @@
             url('../en font/BeauRivage-Regular.ttf') format('truetype'); /* Fallback */
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
     }
 
     @font-face {
@@ -64,6 +70,7 @@
                 url('../en font/AntonSC-Regular.ttf') format('truetype'); /* Fallback */
         font-weight: normal;
         font-style: normal;
+        font-display: swap;
         }
 
 @font-face {
@@ -73,6 +80,7 @@
          url('../en font/ZenDots-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 @font-face {
     font-family: 'dashFont';
@@ -81,6 +89,7 @@
          url('../en font/OpenSans-Light.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -90,4 +99,5 @@
          url('../en font/Montserrat-MediumItalic.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
