@@ -1,0 +1,37 @@
+@media (width:432px) and (height:874px){
+
+    .lang {
+        margin-top: -64px!important;
+        transform: translate(60%, -21%)!important;
+    }
+
+
+.bgTopHeader{
+    margin-bottom: 170px !important;
+}
+.container_bgMenu_tabMo{
+    height: 0vh;
+    margin-top: -39vw!important;
+}
+body {
+    background-color: red !important; /* Debugging */
+}
+
+
+
+
+
+
+
+
+
+/* --- visibility --- */
+.title,.menu,.bgTopHeader{
+    visibility: hidden;
+    opacity: 0;
+    display: none;
+
+}
+
+
+}
